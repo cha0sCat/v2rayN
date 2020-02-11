@@ -51,8 +51,8 @@ namespace v2rayN.Handler
 
         #region v2rayN
 
-        private string nLatestUrl = "https://github.com/2dust/v2rayN/releases/latest";
-        private const string nUrl = "https://github.com/2dust/v2rayN/releases/download/{0}/v2rayN.zip";
+        private string nLatestUrl = "https://github.com/cha0sCat/v2rayN/releases/latest";
+        private const string nUrl = "https://github.com/cha0sCat/v2rayN/releases/download/{0}/v2rayN.zip";
 
         public void AbsoluteV2rayN(Config config)
         {
