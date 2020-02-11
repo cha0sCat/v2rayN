@@ -6,7 +6,7 @@ namespace v2rayN
         #region 常量
 
 
-        public const string AboutUrl = @"https://github.com/2dust/v2rayN";
+        public const string AboutUrl = @"https://github.com/cha0sCat/v2rayN";
         public const string UpdateUrl = AboutUrl + @"/releases";
 
 
